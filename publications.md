@@ -53,7 +53,7 @@ order: 3
       </td>
       <td>
             <strong>Hsiang AY</strong> and Hull PM. (2022) Automated community ecology using deep learning: a case study of planktonic foraminifera. <em>bioRxiv</em>. (DOI: 10.1101/2022.10.31.514514)
-        <img src="img/arch1.png"/>
+        <img src="images/arch1.png"/>
       </td>
       <td>
         <center>
